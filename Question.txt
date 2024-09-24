@@ -1,13 +1,17 @@
-Out of the given list, which is associated with "Tolazamide" AND "Alclometasone". Given list is: ABO, HLA-DPA1, TNRC6B, JAK2, TERT, Empagliflozin 
-
 Out of the given list, which Gene is associated with membranous glomerulonephritis and uterine cervix. Given list is: PSCA, HLA-DQA1, KALRN, HLA-DQA1, HLA-DRB5
 
 What's associated with "hepatitis B" and "lymphoma"?
 
 Tell me about Medrysone
 
+Tell me about piebaldism
+
 Is Medrysone a solid?
 
 Is cystic fibrosis a respiratory system disorder?
 
-Is piebaldism a autosomal dominant disease?
+Is piebaldism a type of cancer?
+
+What are the causes of hepatitis B virus infection?
+
+What are the symptoms of cystic fibrosis?
